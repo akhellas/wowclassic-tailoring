@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: LiquidTailoring
+## Notes: Liquid - Tailoring AddOn
+## Version: 0.1.1
+LiquidTailoring.xml
+# based on Classic Wow: Tailoring guide 1-300 FAST AND CHEAP (Indepth Guide) 2018
+# by Alkemical
+# https://www.youtube.com/watch?v=28wiKqYyhGU
